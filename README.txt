@@ -36,3 +36,6 @@ with developing apps, and it will be difficult to get one onto a phone. The reso
 its design will be compatible with an iphone, however. This GUI allows the storage and communication of 
 tasks that will be sent to the Key-Minder remotely (For testing purposes, we may or may not be 
 connecting them with a wire).
+
+Github:
+We have currently set up a Github at https://github.com/IanAlvis/KeyMinder.git.
