@@ -39,3 +39,4 @@ connecting them with a wire).
 
 Github:
 We have currently set up a Github at https://github.com/IanAlvis/KeyMinder.git.
+This is where we have been uploading the code for our Key-minder.
