@@ -37,5 +37,7 @@ its design will be compatible with an iphone, however. This GUI allows the stora
 tasks that will be sent to the Key-Minder remotely (For testing purposes, we may or may not be 
 connecting them with a wire).
 
+This is the change.g
+
 Github:
 We have currently set up a Github at https://github.com/IanAlvis/KeyMinder.git.
